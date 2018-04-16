@@ -1,0 +1,6 @@
+[submodule "components/EPI32_SPIWrapper"]
+	path = components/EPI32_SPIWrapper
+	url = git@github.com:0x0c/ESP32_SPIWrapper.git
+[submodule "components/FreeRTOS-cpp_task"]
+	path = components/FreeRTOS-cpp_task
+	url = git@github.com:0x0c/FreeRTOS-cpp_task.git
